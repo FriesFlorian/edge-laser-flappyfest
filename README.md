@@ -6,5 +6,5 @@ You can play FlappyFest on the nodejs simulator (see https://github.com/morgan-l
 
 ## I SAID "HOW DO I PLAY" DUMBA$$!
 
-<?php for($i = 0; $i < rand(0, 20), $i++) { echo "jump, "; } ?> and then die. You're welcome!
+<?php for($i = 0; $i < rand(0, 20); $i++) { echo "jump, "; } ?> and then die. You're welcome!
 
